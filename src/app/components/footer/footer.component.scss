@@ -1,0 +1,13 @@
+footer {
+  margin-top: 30px;
+  padding-top: 20px;
+  text-align: center;
+  border-top: 1px solid currentColor;
+  a {
+    text-decoration: none;
+    color: currentColor;
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+}
